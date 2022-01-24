@@ -1,0 +1,36 @@
+{
+"status": {
+"success": true,
+"statusCode": 200,
+"message": "success"
+},
+"data": [{
+"id": 10,
+"title": "Special extra large fried rice",
+"addon": [{
+"id": 21,
+"title": "Fried Egg",
+"quantity": 3
+}],
+"quantity": 1,
+"created_at": "2021-06-10T15:00+00Z",
+"alerted_at": "2021-06-10T15:03+00Z",
+"expired_at": "2021-06-10T15:05+00Z"
+}, {
+"id": 11,
+"title": "Chicken Noodle",
+"addon": [{
+"id": 26,
+"title": "Extra chicken",
+"quantity": 2
+}, {
+"id": 27,
+"title": "Sambal",
+"quantity": 1
+}],
+"quantity": 1,
+"created_at": "2021-06-10T15:10+00Z",
+"alerted_at": "2021-06-10T15:13+00Z",
+"expired_at": "2021-06-10T15:15+00Z"
+}]
+}
